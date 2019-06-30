@@ -17,6 +17,8 @@
                                 {
                     block : 'input',
                     mods : {theme : 'islands', size : 'm'},
+                        // подмешиваем элемент для добавления CSS-правил
+                    mix : { block : 'experiment', elem : 'input' },
                     name : 'name',
                     placeholder : 'User name'
                 },
