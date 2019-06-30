@@ -25,7 +25,7 @@
                     mods : {theme : 'islands', size : 'm', type : 'submit'},
                     text : 'Click'
                 },
-                                {
+                {
                     block : 'button',
                     mods : {blue: true, type : 'submit'},
                     text : 'experiment button'
